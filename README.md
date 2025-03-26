@@ -31,9 +31,10 @@ The inspiration behind this project was to create a seamless and efficient way t
 - **Email Classification**: Classifies emails using machine learning models.
 - **Confidence Score Calculation**: Calculates confidence scores for text generation.
 - **PDF Folder Processing**: Processes a folder of PDF files and extracts relevant information.
+- **API call using HTML** : To Access the model using Web User Interface.
 
 ## 🛠️ How We Built It
-- **Languages**: Python
+- **Languages**: Python, HTML
 - **Frameworks**: Flask for the backend
 - **Libraries**: Various Python libraries for text extraction, machine learning, and data processing
 
@@ -45,7 +46,7 @@ The inspiration behind this project was to create a seamless and efficient way t
 
 ## 🏃 How to Run
 1. Clone the repository  
-   git clone https://github.com/LakshmiVissapragada/gaied-ai-code-fusion.git
+   git clone https://github.com/ewfx/gaied-ai-code-fusion.git
 
    ```
 2. Install dependencies  
