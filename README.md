@@ -1,5 +1,5 @@
-# 🚀 Project Name
-
+# 🚀 gaied-ai-code-fusion
+	
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
@@ -14,31 +14,39 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+This project is focused on developing AI-driven solutions for code fusion. It aims to streamline the process of integrating and managing code from various sources, enhancing productivity and collaboration.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+!Available in Artifacts Directory under Arch folder named as testing detail document.
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+The inspiration behind this project was to create a seamless and efficient way to manage code integration, tackling the common challenges of code conflicts and version control.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+- **Text Extraction from PDF**: Extracts text content from PDF files.
+- **Email Classification**: Classifies emails using machine learning models.
+- **Confidence Score Calculation**: Calculates confidence scores for text generation.
+- **PDF Folder Processing**: Processes a folder of PDF files and extracts relevant information.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+- **Languages**: Python
+- **Frameworks**: Flask for the backend
+- **Libraries**: Various Python libraries for text extraction, machine learning, and data processing
+
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+- Handling large volumes of PDF files efficiently
+- Ensuring high accuracy in email classification
+- Integration of various machine learning models
 
 ## 🏃 How to Run
 1. Clone the repository  
-   ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/LakshmiVissapragada/gaied-ai-code-fusion.git
+
    ```
 2. Install dependencies  
    ```sh
@@ -46,15 +54,20 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   python app.py
    ```
+4. Access the application
+	Open your web browser and navigate to http://localhost:5000 for the Flask backend.
+	To view the web interface, navigate to http://localhost:5000/index.html.
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: HTML (index.html)
+- 🔹 Backend: Flask
+- 🔹 Database: Not Applicable
+- 🔹 Other: 
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Lakshmi Vissapragada** - [GitHub](#) | [LinkedIn](#)
+- **Pasam Bhanu Kiran** - [GitHub](#) | [LinkedIn](#)
+- **Buddiga Shiva Jyothi** - [GitHub](#) | [LinkedIn](#)
+- **Shilpa Gangarapu** - [GitHub](#) | [LinkedIn](#)

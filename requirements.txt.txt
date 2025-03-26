@@ -1,0 +1,6 @@
+Flask==2.0.1
+sentence_transformers
+google-generativeai
+pymupdf
+pandas
+werkzeug
