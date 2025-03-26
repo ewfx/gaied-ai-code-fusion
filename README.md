@@ -17,8 +17,8 @@
 This project is focused on developing AI-driven solutions for code fusion. It aims to streamline the process of integrating and managing code from various sources, enhancing productivity and collaboration.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+🔗 [Live Demo](#) (Uploaded in Demo folder under Artifacts directory)  
+📹 [Video Demo](#) (Uploaded in Demo folder under Artifacts directory)  
 🖼️ Screenshots:
 
 !Available in Artifacts Directory under Arch folder named as testing detail document.
@@ -50,7 +50,7 @@ The inspiration behind this project was to create a seamless and efficient way t
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   npm install  # or pip install -r requirements.txt.txt (for Python)
    ```
 3. Run the project  
    ```sh
