@@ -1,3 +1,3 @@
-Replace this file with a document that describes the architecture and design of your solution architecture. This may include
-    - An architecture drawing exported into a png/jpeg format image
-    - A document in pdf or md format that describes your solution
+This folder contains two documents project overview ad Testing detail document.
+    # Project Overview : This contains the overvire of the soultion archtiecture. 
+    # Testing Detail Document: This contains the test run and corresponding screenshots to it.
